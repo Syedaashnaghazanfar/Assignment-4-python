@@ -33,6 +33,16 @@ Welcome to my **GIAIC Assignment No. 4**! In this assignment, I developed a coll
 5. **Countdown Timer** ⏳  
    A countdown timer app where users can set a time and see the countdown in real-time.
 
+6. **Bulk File Renamer** 🗂️  
+   A tool that allows users to rename multiple files in bulk, saving time for organizing large collections of files.
+
+7. **QR Code Generator** 📱  
+   A simple tool to generate QR codes for URLs or text, which can be scanned with any QR code reader.
+
+8. **Tic Tac Toe** ❌⭕  
+   A classic two-player Tic Tac Toe game where users take turns to place their marks on a grid until someone wins.
+
+
 ### 🔹 **Python Basics Projects**
 These projects helped me improve my basic Python skills, such as:
 - **Functions** 🧑‍💻
