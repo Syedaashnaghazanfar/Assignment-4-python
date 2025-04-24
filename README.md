@@ -7,15 +7,15 @@ Welcome to my **GIAIC Assignment No. 4**! In this assignment, I developed a coll
 ### 🔹 **Streamlit Projects**
 1. **BMI Calculator** 💪  
    A simple and interactive BMI calculator that helps users check their Body Mass Index by inputting their weight and height.  
+   [View Live App](https://bmi-calculator-by-ashna.streamlit.app/)
 
 2. **Weather App** 🌦️  
    A dynamic weather application to check the current weather based on the user's location or a city of choice.  
+   [View Live App](https://weather-information-provider-by-ashna.streamlit.app/)
 
-3. **Country Search** 🌍  
-   A country information app that provides details about any country (like population, capital, etc.) using an API.  
-
-4. **Country Cards** 🃏  
+3. **Country Cards** 🃏  
    Displays a beautiful UI with country cards showing important details about countries worldwide.  
+   [View Live App](https://countryinformationcardsbyashna.streamlit.app/)
 
 ### 🔹 **Mini Projects**
 1. **Number Guessing Game** 🎮  
